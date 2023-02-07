@@ -1,4 +1,4 @@
-123
+conflict line 1
 commit test
 456
 789.
