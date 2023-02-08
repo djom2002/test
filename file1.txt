@@ -1,4 +1,4 @@
-conflict line 1
+conflict line 1 update
 commit test
 456
 789.
